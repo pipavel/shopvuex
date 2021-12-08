@@ -1,4 +1,4 @@
-# tutu_brains
+# SHOP
 
 ## Project setup
 ```
