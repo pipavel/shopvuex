@@ -1,0 +1,9 @@
+@import 'variables.scss';
+
+ .bth{
+   padding: $padding $padding*2;
+   background: #26ea68;
+   color: #ffffff;
+   border: 0;
+   border-radius: $radius;
+ }
